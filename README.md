@@ -4,25 +4,6 @@ Here, I upload one program each day based on what I've studied — covering ever
 
 ---
 
-## 📚 Topics Covered
-
-- ✅ Arithmetic Operations
-- ✅ Control Flow (if, switch)
-- ✅ Loops (for, while, do-while)
-- ✅ Functions
-- ✅ Arrays
-- ✅ Strings
-- ✅ Pointers
-- ✅ Structures and Unions
-- ✅ File Handling
-- ✅ Sorting Algorithms
-- ✅ Searching Algorithms
-- ✅ Recursion
-- ✅ Bitwise Operations
-- ✅ Math Logic Programs (Prime, Palindrome, etc.)
-
----
-
 ## 📁 Folder Structure (Planned)
 
 (Note: Some folders may be empty as I'm updating this repo daily.)
