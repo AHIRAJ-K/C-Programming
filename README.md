@@ -51,6 +51,14 @@ I hope it helps others too! Feel free to explore and suggest improvements.
 
 ---
 
+## 📫 Let's Connect
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ahiraj-k/)
+- 🔗 [GitHub](https://github.com/AHIRAJ-K)
+- 📧 Email: Ahiraj.me@gmail.com
+
+---
+
+> **Note:** As this repo is updated daily, there may be occasional gaps due to personal reasons or time constraints. Thanks for understanding!
 
 
 
