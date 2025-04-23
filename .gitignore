@@ -1,0 +1,7 @@
+# Ignore all executable files
+*.exe
+
+#Ignore backup or temporary files
+*.o
+*.out
+*~
