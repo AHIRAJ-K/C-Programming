@@ -28,7 +28,6 @@ Here, I upload one program each day based on what I've studied — covering ever
 (Note: Some folders may be empty as I'm updating this repo daily.)
 
 ```plaintext
-
   C-Programs-Study-Based/
   ├── 01-Arithmetic/
   ├── 02-Control-Flow/
@@ -44,7 +43,6 @@ Here, I upload one program each day based on what I've studied — covering ever
   ├── 12-Recursion/
   ├── 13-Bitwise-Operations/
   ├── 14-Math-Logic-Programs/
-
 ```
 
 ---
