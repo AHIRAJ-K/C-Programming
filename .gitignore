@@ -1,7 +1,31 @@
-# Ignore all executable files
-*.exe
-
-#Ignore backup or temporary files
+# Compiled object files
 *.o
+
+# Compiled executable files
+*.exe
 *.out
+
+# Temporary or backup files
 *~
+*.bak
+*.tmp
+
+# Debug files
+*.dSYM/
+*.log
+
+# Build folders (if using an IDE)
+build/
+bin/
+Debug/
+Release/
+
+# VS Code settings (optional)
+.vscode/
+
+# MacOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+desktop.ini
