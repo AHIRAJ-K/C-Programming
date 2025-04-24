@@ -7,7 +7,7 @@ This folder contains basic arithmetic programs in C. These programs are designed
 ## 📝 Programs in this folder
 
 1. **Addition of two numbers**
-3. **Subtraction of two numbers**
+2. **Subtraction of two numbers**
 
 ---
 
