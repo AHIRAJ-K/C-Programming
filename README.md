@@ -1,8 +1,8 @@
 # C Programming 
 Welcome to my daily C programming practice repository!  
-Here, I upload one program each day based on what I've studied — covering everything from basics to advanced concepts in C.
+Here, I upload programs each day based on what I've studied — covering everything from basics to advanced concepts in C.
 
-### 📅 **Started On:** April 24, 2025
+### 📅 **Started On:** April 23, 2025
 
 ---
 
