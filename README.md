@@ -9,7 +9,7 @@ Here, I upload one program each day based on what I've studied — covering ever
 (Note: Some folders may be empty as I'm updating this repo daily.)
 
 ```plaintext
-  C-Programs-Study-Based/
+  C-Programs/
   ├── 01-Arithmetic/
   ├── 02-Control-Flow/
   ├── 03-Loops/
