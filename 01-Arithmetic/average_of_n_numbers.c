@@ -28,4 +28,4 @@ int main() {
     printf("Average of the %d numbers is: %.2f\n", n, average);
 
     return 0;
-}
+} 
