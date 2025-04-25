@@ -18,5 +18,5 @@ int main() {
         printf("Result of %.2f divided by %.2f is: %.2f\n", num1, num2, result);
     }
 
-    return 0;
+    return 0; 
 }
