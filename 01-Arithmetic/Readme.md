@@ -10,6 +10,7 @@ This folder contains basic arithmetic programs in C. These programs are designed
 2. **Subtraction of two numbers**
 3. **Multiplication of two numbers**
 4. **Division of two numbers**
+5. **Average of n numbers**
 ---
 
 ## 📅 Planned Programs
