@@ -16,7 +16,7 @@ int main() {
     }
 
     // Calculate remainder
-    remainder = dividend % divisor; 
+    remainder = dividend % divisor;
 
     // Output remainder
     printf("Remainder when %d is divided by %d is: %d\n", dividend, divisor, remainder);
