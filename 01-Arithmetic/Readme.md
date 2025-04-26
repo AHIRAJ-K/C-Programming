@@ -11,6 +11,7 @@ This folder contains basic arithmetic programs in C. These programs are designed
 3. **Multiplication of two numbers**
 4. **Division of two numbers**
 5. **Average of n numbers**
+6. **Remainder of division**
 ---
 
 ## 📅 Planned Programs
