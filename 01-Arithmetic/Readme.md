@@ -13,7 +13,7 @@ This folder contains basic arithmetic programs in C. These programs are designed
 5. **Average of n numbers**
 6. **Remainder of division**
 7. **Area of a circle**
-8. **Area and perimeter of rectangle**
+8. **Area and perimeter of rectangle** 
 ---
 
 ## 📅 Planned Programs
