@@ -9,7 +9,8 @@ int main() {
     printf("Enter the width of the rectangle: ");
     scanf("%f", &width);
 
-    if (length < 0 || width < 0) {
+    if (length < 0 || width < 0) 
+    {
         printf("Error: Length and width must be positive.\n");
         return 1;
     }
