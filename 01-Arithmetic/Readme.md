@@ -15,6 +15,8 @@ This folder contains basic arithmetic programs in C. These programs are designed
 7. **Area of a circle**
 8. **Area and perimeter of rectangle** 
 9. **Celsius to Fahrenheit**
+10. **Fahrenheit to Celsius**
+
 ---
 
 ## 📅 Planned Programs
