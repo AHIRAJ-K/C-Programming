@@ -16,6 +16,7 @@ This folder contains basic arithmetic programs in C. These programs are designed
 08. **Area and perimeter of rectangle** 
 09. **Celsius to Fahrenheit**
 10. **Fahrenheit to Celsius**
+11. **Simple interest calculator**
 
 ---
 
