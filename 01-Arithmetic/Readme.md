@@ -6,15 +6,15 @@ This folder contains basic arithmetic programs in C. These programs are designed
 
 ## 📝 Programs in this folder
 
-1. **Addition of two numbers**
-2. **Subtraction of two numbers**
-3. **Multiplication of two numbers**
-4. **Division of two numbers**
-5. **Average of n numbers**
-6. **Remainder of division**
-7. **Area of a circle**
-8. **Area and perimeter of rectangle** 
-9. **Celsius to Fahrenheit**
+01. **Addition of two numbers**
+02. **Subtraction of two numbers**
+03. **Multiplication of two numbers**
+04. **Division of two numbers**
+05. **Average of n numbers**
+06. **Remainder of division**
+07. **Area of a circle**
+08. **Area and perimeter of rectangle** 
+09. **Celsius to Fahrenheit**
 10. **Fahrenheit to Celsius**
 
 ---
