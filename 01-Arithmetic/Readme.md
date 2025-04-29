@@ -11,11 +11,11 @@ This folder contains basic arithmetic programs in C. These programs are designed
 03. **Multiplication of two numbers**
 04. **Division of two numbers**
 05. **Average of n numbers**
-06. **Remainder of division**
-07. **Area of a circle**
-08. **Area and perimeter of rectangle** 
-09. **Celsius to Fahrenheit**
-10. **Fahrenheit to Celsius**
+06. **Find the remainder of division**
+07. **Calculate the area of a circle**
+08. **Calculate the area and perimeter of rectangle** 
+09. **Convert Celsius to Fahrenheit**
+10. **Convert Fahrenheit to Celsius**
 11. **Simple interest calculator**
 12. **Compound interest calculator**
 
