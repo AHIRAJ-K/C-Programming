@@ -18,6 +18,7 @@ This folder contains basic arithmetic programs in C. These programs are designed
 10. **Convert Fahrenheit to Celsius**
 11. **Simple interest calculator**
 12. **Compound interest calculator**
+13. **Find the roots of a quadratic equation**
 
 ---
 
