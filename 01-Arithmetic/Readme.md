@@ -22,9 +22,16 @@ This folder contains basic arithmetic programs in C. These programs are designed
 
 ---
 
-## 📅 Planned Programs
+## ✅ Topics Covered (Additional)
 
-I will continue to add new programs on various arithmetic operations, and will organize them as I progress through the topics. Stay tuned for more programs to come!
+The following concepts are used across the Arithmetic exercises:
+
+- Arithmetic operations (`+`, `-`, `*`, `/`, `%`)
+- Conditional statements (`if`, `if-else`) for logic decisions
+- Loops (`for`) for summing values or averaging
+- Use of `#define` and `const` for constants like π
+- Use of standard math library (`math.h`) for `sqrt()` and `pow()`
+- Formatted output using `printf()` with specifiers like `%.2f`
 
 ---
 
