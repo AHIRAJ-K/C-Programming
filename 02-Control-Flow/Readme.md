@@ -7,6 +7,7 @@ This folder contains control flow programs in C. These programs are designed to 
 ## 📝 Programs in this folder
 
 01. **If-else conditions**
+02. **Nested if-else**
 
 ---
 
