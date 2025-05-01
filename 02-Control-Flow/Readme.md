@@ -8,6 +8,7 @@ This folder contains control flow programs in C. These programs are designed to 
 
 01. **If-else conditions**
 02. **Nested if-else**
+02. **Switch case statement**
 
 ---
 
