@@ -12,7 +12,7 @@ This folder contains control flow programs in C. These programs are designed to 
 04. **Even or Odd number**
 05. **Leap Year check**
 06. **Vowel or Consonant check**
-
+07. **Check if a number is prime**
 ---
 
 ## 📅 Planned Programs
