@@ -11,7 +11,7 @@ int main() {
         printf("Digits in reverse order: ");
         while (num > 0) {
             printf("%d ", num % 10);
-            num /= 10;
+            num = num/10;
         }
         printf("\n");
     }
