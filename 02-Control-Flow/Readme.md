@@ -14,6 +14,8 @@ This folder contains control flow programs in C. These programs are designed to 
 06. **Vowel or Consonant check**
 07. **Check if a number is prime**
 08. **Print a multiplication table for any number**
+09. **Find the largest of three numbers using if-else**
+
 
 ---
 
