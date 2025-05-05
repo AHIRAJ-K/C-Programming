@@ -15,6 +15,8 @@ This folder contains control flow programs in C. These programs are designed to 
 07. **Check if a number is prime**
 08. **Print a multiplication table for any number**
 09. **Find the largest of three numbers using if-else**
+10. **Check Whether a Given Year is a Leap Year (if-else)**
+
 
 
 ---
