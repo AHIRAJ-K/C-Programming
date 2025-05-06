@@ -13,7 +13,7 @@ This folder contains control flow programs in C. These programs are designed to 
 05. **Leap Year check**
 06. **Vowel or Consonant check**
 07. **Check if a number is prime**
-08. **Print a multiplication table for any number**
+08. **Check if a character is an alphabet**
 09. **Find the largest of three numbers**
 10. **Print Numbers in Reverse Order**
 
