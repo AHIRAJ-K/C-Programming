@@ -8,7 +8,7 @@ This folder contains loop programs in C. These programs help in understanding th
 
 01. **Print numbers from 1 to 100 using a loop**  
 02. **Print a multiplication table**
-03. 
+03. **Factorial of a number**
 
 ---
 
