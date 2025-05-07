@@ -6,8 +6,9 @@ This folder contains loop programs in C. These programs help in understanding th
 
 ## 📝 Programs in this folder
 
-1. **Print numbers from 1 to 100 using a loop**  
-2. **Print a multiplication table** 
+01. **Print numbers from 1 to 100 using a loop**  
+02. **Print a multiplication table**
+03. 
 
 ---
 
