@@ -10,6 +10,7 @@ This folder contains loop programs in C. These programs help in understanding th
 02. **Print a multiplication table**
 03. **Check if a number is an Armstrong number**
 04. **Factorial of a number**
+05. **Check if a number is a Strong number**
 
 ---
 
