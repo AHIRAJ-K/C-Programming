@@ -13,7 +13,7 @@ This folder contains loop programs in C. These programs help in understanding th
 05. **Check if a number is a Strong number**
 06. **Check if a number is a Perfect number**
 07. **Reverse a number**
-
+08. **Fibonacci series upto n terms**
 ---
 
 ## 📅 Planned Programs
