@@ -12,6 +12,8 @@ This folder contains loop programs in C. These programs help in understanding th
 04. **Factorial of a number**
 05. **Check if a number is a Strong number**
 06. **Check if a number is a Perfect number**
+07. **Reverse a number**
+
 ---
 
 ## 📅 Planned Programs
