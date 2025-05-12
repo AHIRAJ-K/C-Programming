@@ -15,6 +15,7 @@ This folder contains loop programs in C. These programs help in understanding th
 07. **Reverse a number**
 08. **Fibonacci series upto n terms**
 09. **Count digits in number**
+10. **Sum of digits of a number**
 ---
 
 ## 📅 Planned Programs
