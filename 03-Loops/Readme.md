@@ -14,6 +14,7 @@ This folder contains loop programs in C. These programs help in understanding th
 06. **Check if a number is a Perfect number**
 07. **Reverse a number**
 08. **Fibonacci series upto n terms**
+09. **Count digits in number**
 ---
 
 ## 📅 Planned Programs
