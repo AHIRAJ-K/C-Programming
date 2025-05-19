@@ -16,6 +16,7 @@ This folder contains loop programs in C. These programs help in understanding th
 08. **Fibonacci series upto n terms**
 09. **Count digits in number**
 10. **Sum of digits of a number**
+11. **fibonacci series upto n terms**
 ---
 
 ## 📅 Planned Programs
