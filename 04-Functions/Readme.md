@@ -9,7 +9,7 @@ This folder contains C programs that demonstrate the use of **functions**, both 
 01. **Function to check if a number is prime**  
 02. **Function to find the factorial of a number**  
 03. **Function to swap two numbers**  
-04. **Recursive factorial function**  
+04. **Recursive factorial function** 
 05. **Function to calculate power of a number (a^b)**  
 06. **Function to compute GCD of two numbers**  
 07. **Function to compute LCM of two numbers**  
