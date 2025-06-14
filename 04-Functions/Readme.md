@@ -13,7 +13,7 @@ This folder contains C programs that demonstrate the use of **functions**, both 
 05. **Function to calculate power of a number (a^b)**  
 06. **Function to compute GCD of two numbers**  
 07. **Function to compute LCM of two numbers**  
-08. **Recursive function to sum digits of a number**  
+08. **Recursive function to sum digits of a number** 
 09. **Function to calculate power without `pow()`**  
 10. **Function to find maximum of three numbers**  
 11. **Function to check if a number is even or odd**  
